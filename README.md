@@ -2,7 +2,7 @@
 ## Dino Readme
 
 I've been a developer for a long time.  Back in the day, I did C#, but more
-recently it's been JavaScript, Java, Python, and a little Golang.
+recently it's been JavaScript, Java, Python, Bash of course, and a little Typescript and Golang.
 
 I like to build all sorts of tools that I think will be handy. and I like crypto.
 
@@ -13,4 +13,10 @@ Some examples of web-based tools I've built:
 - [HMAC or SHA calculator](https://dinochiesa.github.io/hmachash/index.html)
 
 
+<!--
+This is a shared server
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DinoChiesa&count_private=true)
+-->
+
+<!-- the following image gets updated periodically -->
+![GitHub stats](./img/my-statically-generated-stats-image.svg)
