@@ -2,7 +2,7 @@
 ## Dino Readme
 
 I've been a developer for a long time.  Back in the day, I did C#, but more
-recently it's been JavaScript, Java, and a little Golang.
+recently it's been JavaScript, Java, Python, and a little Golang.
 
 I like to build all sorts of tools that I think will be handy. and I like crypto.
 
