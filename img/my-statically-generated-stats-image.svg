@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Dino Chiesa's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 769, Total Commits  (last year) : 1132, Total PRs: 296, Total Issues: 129, Contributed to (last year): 33</desc>
+        <desc id="descId">Total Stars Earned: 769, Total Commits  (last year) : 1136, Total PRs: 296, Total Issues: 129, Contributed to (last year): 33</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 11.989771786064454;
+        stroke-dashoffset: 11.966563810748163;
       }
     }
   
